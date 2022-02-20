@@ -1,3 +1,5 @@
+%define _empty_manifest_terminate_build 0
+
 Name:           nlohmann_json
 Version:        3.10.5
 Release:        1
