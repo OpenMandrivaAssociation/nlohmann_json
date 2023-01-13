@@ -1,7 +1,7 @@
 %define _empty_manifest_terminate_build 0
 
 Name:           nlohmann_json
-Version:        3.10.5
+Version:        3.11.2
 Release:        1
 Summary:        JSON for Modern C++
 License:        MIT
@@ -45,4 +45,4 @@ to make JSON a first-class datatype for C++11
 %{_libdir}/cmake/nlohmann_json/nlohmann_jsonConfig.cmake
 %{_libdir}/cmake/nlohmann_json/nlohmann_jsonConfigVersion.cmake
 %{_libdir}/cmake/nlohmann_json/nlohmann_jsonTargets.cmake
-%{_libdir}/pkgconfig/nlohmann_json.pc
+%{_datadir}/pkgconfig/nlohmann_json.pc
