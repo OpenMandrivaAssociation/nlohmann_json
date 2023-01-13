@@ -1,7 +1,7 @@
 %define _empty_manifest_terminate_build 0
 
 Name:           nlohmann_json
-Version:        3.10.5
+Version:        3.11.2
 Release:        1
 Summary:        JSON for Modern C++
 License:        MIT
